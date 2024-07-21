@@ -1,0 +1,27 @@
+
+1. Created Schema  - check
+2. Initial data loaded - check
+3.made https backend - check
+4. frontend and backend can noe easily communicate - check
+5. create end points 
+    // doctors - 
+    1.Login doctor done 
+    2. create doctor done
+    
+
+    // Doctor patient - 
+    1. get assigned doctor done
+    2. assign doctor done
+
+    //patients
+    1. get patients and assigned doctors done
+    2. create patient done
+
+    //pdfs
+    1. create pdf done
+    2. delete pdf done
+    3. get single pdf 
+    4. 
+
+6. Do the thing with pdf where you get the link from supabase
+7. Submit by today
